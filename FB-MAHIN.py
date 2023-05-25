@@ -306,7 +306,7 @@ def banner():
    {H} ║{P}[{H}•{P}] Author    :{warna} FB-MAHIN                 {N}{H}║
   {H}  ║{P}[{H}•{P}] Facebook  : {H}SHEIKH MAHIN             {N}{H}║
     {H}║{P}[{H}•{P}] Whatsapp  : {M}+8801301321114          {N}{H}║
-  {H}  ║{P}[{H}•{P}] Github    : {K}github.com/SKMAHIN99935{N}    {H}  ║
+  {H}  ║{P}[{H}•{P}] Github    : {K} SKMAHIN99935{N}    {H}  ║
   {H}  ║{P}[{H}•{P}] Status    : {H}PREMIUM {P}     {N}      {H}     ║
    {H} ║{P}[{H}•{P}] Network   : {H}3G{N}, {H}4G/5G{N}, {H}ON{N}     {H}      ║
    {H} ║{P}[{H}•{P}] Version   : {H}2.0.9                   ║
